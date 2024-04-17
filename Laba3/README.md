@@ -26,13 +26,14 @@
 3. Соберите программу:
 
     ```bash
-    make
+    make MODE=release
+    make MODE=release TARGET=child
     ```
 
 4. Запустите программу:
 
     ```bash
-    ./parent child
+    ./parent
     ```
 
 ## Использование
