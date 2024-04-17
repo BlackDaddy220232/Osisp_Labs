@@ -14,7 +14,7 @@
 1. Склонируйте репозиторий на локальную машину:
 
     ```bash
-    git clone [<https://github.com/k9targex/OSISP_labs.git>](https://github.com/BlackDaddy220232/Osisp_Labs.git)
+    git clone https://github.com/BlackDaddy220232/Osisp_Labs.git
     ```
 
 2. Перейдите в каталог с проектом:
